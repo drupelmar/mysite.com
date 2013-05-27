@@ -3,9 +3,10 @@ api = 2
 
 ;Core
 projects[drupal][type] = core
-projects[drupal][version] = 6.28
+projects[drupal][version] = 6.x
 
 ;Install profile
 projects[mysite][type] = profile
 projects[mysite][download][type] = git
 projects[mysite][download][url] = git://github.com/drupelmar/mysite.com.git
+
