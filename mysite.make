@@ -58,13 +58,220 @@ projects[panels][type] = "module"
 projects[views][version] = 2.16
 projects[views][type] = "module"
 
-  
+ projects[views_bulk_operations][version] = "1.14"
+
+projects[addthis][version] = "3.0-beta2"
+
+
+
+projects[admin_theme][version] = "1.x-dev"
+
+projects[administerusersbyrole][version] = "1.4+11-dev"
+
+projects[advanced_help][version] = "1.2"
+
+projects[advanced_profile][version] = "1.0"
+
+projects[captcha_pack][version] = "1.x-dev"
+
+projects[auto_nodetitle][version] = "1.2"
+
+projects[backup_migrate][version] = "2.6"
+
+projects[backup_migrate_files][version] = "1.x-dev"
+
+projects[better_exposed_filters][version] = "1.0"
+
+projects[better_formats][version] = "1.2"
+
+projects[boost][version] = "1.21"
+
+
+
+
+
+projects[captcha][version] = "2.4"
+
+projects[cck][version] = "2.9"
+
+projects[content_profile][version] = "1.x-dev"
+
+projects[content_taxonomy][version] = "1.0-rc2"
+
+projects[custom_formatters][version] = "1.6"
+
+
+
+projects[devel][version] = "1.27"
+
+projects[ds][version] = "2.3"
+
+
+
+projects[extlink][version] = "1.11"
+
+projects[fancy_login][version] = "1.7"
+
+projects[fb_social][version] = "1.0-beta9"
+
+projects[fckeditor][version] = "2.1"
+
+projects[feeds][version] = "1.0-beta13"
+
+projects[feeds_tamper][version] = "1.0-beta4+19-dev"
+
+projects[file_aliases][version] = "1.1"
+
+projects[filefield][version] = "3.10"
+
+projects[filefield_paths][version] = "1.4"
+
+projects[filefield_sources][version] = "1.7"
+
+projects[gmap][version] = "1.1"
+
+projects[google_analytics][version] = "3.5"
+
+projects[imageapi][version] = "1.10"
+
+projects[imagecache][version] = "2.0-rc1"
+
+projects[imagecache_external][version] = "2.0-beta2"
+
+projects[imagefield][version] = "3.10"
+
+projects[imagefield_tokens][version] = "1.0"
+
+projects[jammer][version] = "1.7"
+
+projects[javascript_aggregator][version] = "1.6"
+
+projects[job_scheduler][version] = "1.0-beta3"
+
+projects[jquery_ui][version] = "1.5"
+
+
+
+projects[linkimagefield][version] = "1.x-dev"
+
+projects[location][version] = "3.2"
+
+projects[login_destination][version] = "2.12"
+
+projects[masquerade][version] = "1.7+1-dev"
+
+projects[menu_block][version] = "2.4"
+
+projects[menu_breadcrumb][version] = "1.3"
+
+projects[menu_token][version] = "1.0-alpha2"
+
+projects[nd][version] = "2.9"
+
+projects[nd_contrib][version] = "2.9"
+
+projects[nice_menus][version] = "2.1"
+
+projects[node_limitnumber][version] = "1.2"
+
+projects[nodepreview_by_type][version] = "1.x-dev"
+
+projects[oauth][version] = "2.02"
+
+projects[override_node_options][version] = "1.12"
+
+projects[page_title][version] = "2.7"
+
+
+
+projects[parser_ical][version] = "2.0-beta1"
+
+projects[pathauto][version] = "1.6"
+
+projects[progress][version] = "1.5"
+
+projects[realname][version] = "1.5"
+
+projects[rules][version] = "1.5"
+
+projects[seo_checklist][version] = "3.0"
+
+projects[tablegroup][version] = "1.x-dev"
+
+projects[tabs][version] = "1.3"
+
+projects[tagadelic][version] = "1.3"
+
+projects[tagadelic_views][version] = "1.x-dev"
+
+projects[taxonomy_manager][version] = "2.3"
+
+projects[token][version] = "1.19"
+
+projects[token_custom][version] = "1.2"
+
+projects[total_control][version] = "2.4"
+
+projects[ud][version] = "2.1"
+
+projects[unlimited_css][version] = "1.3"
+
+projects[user_creator][version] = "1.x-dev"
+
+projects[vd][version] = "2.1"
+
+
+
+projects[views_bonus][version] = "1.1"
+
+projects[views_fluid_grid][version] = "1.1"
+
+projects[views_groupby][version] = "1.0-rc2"
+
+projects[views_popup][version] = "2.9"
+
+projects[views_send][version] = "1.0-beta3"
+
+projects[wysiwyg][version] = "2.4"
+
+projects[wysiwyg_filter][version] = "1.5"
+ 
 
 ; Themes
 ; --------
+projects[offline][version] = "1.x-dev"
 
-  
-  
+projects[fueldeluxe][version] = "1.0"
+
+projects[superclean][version] = "1.2"
+
+projects[magazeen][version] = "3.0-beta1"
+
+projects[analytic][version] = "1.5"
+
+projects[adaptivetheme][subdir] = "adaptivetheme"
+projects[adaptivetheme][version] = "2.2"
+
+
+projects[notechaos][version] = "2.3"
+
+projects[alek_2_0][version] = "1.x-dev"
+
+projects[zen][version] = "2.0-beta1"
+
+projects[multiflex3][version] = "1.7"
+
+projects[danland][version] = "2.1"
+
+projects[omega][version] = "1.0"
+
+projects[deco][version] = "1.1"
+
+projects[ad_novus][version] = "1.6"
+
+projects[ninesixtyrobots][version] = "2.1"
+
+
 ; Libraries
 ; ---------
 libraries[jquery][download][type] = "file"
