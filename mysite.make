@@ -66,7 +66,7 @@ projects[addthis][version] = "3.0-beta2"
 
 projects[admin_theme][version] = "1.x-dev"
 
-projects[administerusersbyrole][version] = "1.4+11-dev"
+projects[administerusersbyrole][version] = "1.4"
 
 projects[advanced_help][version] = "1.2"
 
@@ -118,7 +118,7 @@ projects[fckeditor][version] = "2.1"
 
 projects[feeds][version] = "1.0-beta13"
 
-projects[feeds_tamper][version] = "1.0-beta4+19-dev"
+projects[feeds_tamper][version] = "1.0-beta4"
 
 projects[file_aliases][version] = "1.1"
 
@@ -158,7 +158,7 @@ projects[location][version] = "3.2"
 
 projects[login_destination][version] = "2.12"
 
-projects[masquerade][version] = "1.7+1-dev"
+projects[masquerade][version] = "1.7"
 
 projects[menu_block][version] = "2.4"
 
@@ -176,7 +176,7 @@ projects[node_limitnumber][version] = "1.2"
 
 projects[nodepreview_by_type][version] = "1.x-dev"
 
-projects[oauth][version] = "2.02"
+projects[oauth][version] = "3.0"
 
 projects[override_node_options][version] = "1.12"
 
@@ -269,7 +269,6 @@ projects[deco][version] = "1.1"
 
 projects[ad_novus][version] = "1.6"
 
-projects[ninesixtyrobots][version] = "2.1"
 
 
 ; Libraries
