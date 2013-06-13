@@ -176,7 +176,7 @@ projects[node_limitnumber][version] = "1.2"
 
 projects[nodepreview_by_type][version] = "1.x-dev"
 
-projects[oauth][version] = "3.0"
+projects[oauth][version] = "3.0-beta4"
 
 projects[override_node_options][version] = "1.12"
 
@@ -267,7 +267,7 @@ projects[omega][version] = "1.0"
 
 projects[deco][version] = "1.1"
 
-projects[ad_novus][version] = "1.6"
+
 
 
 
