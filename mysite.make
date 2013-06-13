@@ -62,7 +62,9 @@ projects[views][type] = "module"
 
 projects[addthis][version] = "3.0-beta2"
 
+projects[tagadelic][version] = "1.3"
 
+projects[tagadelic_views][version] = "1.x-dev"
 
 projects[admin_theme][version] = "1.x-dev"
 
@@ -235,7 +237,8 @@ projects[views_send][version] = "1.0-beta3"
 projects[wysiwyg][version] = "2.4"
 
 projects[wysiwyg_filter][version] = "1.5"
- 
+
+projects[addthis][version] = "3.0-beta2" 
 
 ; Themes
 ; --------
@@ -267,7 +270,11 @@ projects[omega][version] = "1.0"
 
 projects[deco][version] = "1.1"
 
+projects[vppr][version] = "1.1"
 
+projects[wysiwyg][version] = "2.4"
+
+projects[wysiwyg_filter][version] = "1.5"
 
 
 
@@ -277,5 +284,75 @@ libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"
 libraries[jqueryui][download][type] = "file"
 libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
